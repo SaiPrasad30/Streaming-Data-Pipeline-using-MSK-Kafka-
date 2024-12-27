@@ -1,7 +1,7 @@
 # Streaming-Data-Pipeline-using-MSK-Kafka
 
 ## Overview
-This architecture diagram represents a modern data streaming and processing pipeline built on AWS. The solution involves integrating external applications with a highly scalable, event-driven architecture. It leverages Amazon MSK (Managed Streaming for Apache Kafka) for real-time data processing, Kinesis Firehose for data ingestion, and S3 for storage and Athena for analytics. 
+This Project aims to represents a modern data streaming and processing pipeline built on AWS. The solution involves integrating external applications with a highly scalable, event-driven architecture. It leverages Amazon MSK (Managed Streaming for Apache Kafka) for real-time data processing, Kinesis Firehose for data ingestion, and S3 for storage and Athena for analytics. 
 
 The design ensures data integrity, scalability, and efficient data consumption for downstream applications, enabling robust analytics and real-time processing.
 
