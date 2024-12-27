@@ -27,6 +27,7 @@ The design ensures data integrity, scalability, and efficient data consumption f
 
 3. **AWS Lambda**:
    - Powers serverless compute for producing/consuming Kafka messages and transforming data.
+   - Includes a Kafka layer to simplify interaction with the MSK cluster.
 
 4. **Amazon MSK (Managed Streaming for Apache Kafka)**:
    - Provides a managed Kafka service for real-time event streaming and message brokering.
